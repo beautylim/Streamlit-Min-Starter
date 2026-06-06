@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 MinLiz-Starter')
 
 st.write('Hello world!')
